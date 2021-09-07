@@ -8,16 +8,19 @@
 5. [Results](#results)
 6. [Licensing, Authors, and Acknowledgements](#licensing)
 
+
 ## Installation <a name="installation"></a>
 
 For this project, some main data science libraries were used and will be needed for properly running the notebook.
+
 These are the libraries:
 
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
+* numpy
+* pandas
+* matplotlib
+* seaborn
+* scikit-learn
+
 
 ## Data <a name="data"></a>
 
@@ -31,6 +34,7 @@ The area of Loans has a really interesting machine learning problem which is pre
 * Which type of contract is the most defaulted?
 * How the default behavior is divided across the customer's social context.
 * What are the factors that most relate a customer to default a loan?
+
 
 ## File Descriptions <a name="files"></a>
 
